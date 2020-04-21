@@ -44,6 +44,10 @@ nav {
 	border-radius: 3px;
 }
 
+.menu li a.logo:hover {
+	background: none;
+}
+
 .menu li a.logo {
 	font-size: 25px;
 	margin-right: 240px;
@@ -235,6 +239,11 @@ nav {
 	display: flex;
 }
 
+.buttons-search button:hover {
+	background: #ffcc01;
+	cursor: pointer;
+}
+
 .steps h2 {
 	margin-top: 55px;
 	font-size: 30px;
@@ -413,6 +422,12 @@ nav {
 	display: flex;
 }
 
+.add-line .show-more:hover {
+	background: #ffcc01;
+	color: #000;
+	cursor: pointer;
+}
+
 .location {
 	font-size: 18px;
 	padding: 30px 87px 35px 55px;
@@ -537,11 +552,6 @@ hr {
 .footer-link a:hover {
 	opacity: 0.4;
 }
-
-
-
-
-
 
 
 
