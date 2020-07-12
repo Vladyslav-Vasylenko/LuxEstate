@@ -3,7 +3,7 @@
 
 **Description:**
 Are you looking for a flat? Rent an appartment with a LuxEstate! It's simple, creative and beautiful. Don't overthink just grab it and use:)
-### [LIVE](https://richboyscrytoo.github.io/LuxEstate/)
+### [LIVE](https://vladyslav-vasylenko.github.io/LuxEstate/)
 **Technologies used:**
  - HTML
  - CSS
